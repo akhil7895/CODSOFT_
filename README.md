@@ -1,2 +1,2 @@
 # CODSOFT_
-All codes/projects are  presents here which i learn during my internship in codsoft 
+All codes/projects are  presents here which i learn during my internship in codsoft. 
